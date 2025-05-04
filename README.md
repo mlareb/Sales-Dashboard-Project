@@ -1,4 +1,4 @@
-# ales-Dashboard-Project
+# Sales-Dashboard-Project
 Overview
 This project showcases a comprehensive MIS dashboard created in Microsoft Excel to analyze and visualize sales performance data. The dashboard is designed to provide actionable insights for decision-making by presenting raw data alongside key metrics like total sales, target achievement, and regional performance.
 
